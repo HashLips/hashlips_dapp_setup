@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Monaco, Consolas, "Courier New", monospace;
+  background-color: rgb(29, 29, 29);
+  color: rgb(255, 255, 255);
+}
